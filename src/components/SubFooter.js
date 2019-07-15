@@ -9,10 +9,6 @@ const SubFooter = props => (
           <div className="sub-footer">
             <ul>
               <li>
-                <strong>Phone: </strong>
-                {props.data.site.siteMetadata.contact.phone}
-              </li>
-              <li>
                 <strong>Email: </strong>
 {' '}
                 <a href={`mailto:${props.data.site.siteMetadata.contact.email}`}>
@@ -22,7 +18,7 @@ const SubFooter = props => (
             </ul>
             <ul>
               <li>
-                <a href="https://www.zerostatic.io">www.zerostatic.io</a>
+                <a href="https://assetchart.in">https://assetchart.in</a>
               </li>
             </ul>
           </div>
@@ -40,7 +36,6 @@ export default props => (
           siteMetadata {
             contact {
               email
-              phone
             }
           }
         }

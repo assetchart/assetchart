@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
+    "title": "Import PDF Statements",
+    "description": "Convert PDF statements to CSV from NSDL, CAMS, Kotak, ICICI, Zerodha and other equity portals",
     "image": "/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Scrape orders from your securities websites",
+    "description": "Directly capture holdings & orders to CSV from your securities portal like Kotak, ICICI or Zerodha.",
     "image": "/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Visualize your assets in charts and analyze",
+    "description": "Import your holdings to AssetChart, Google Spreadsheet templates and analyze your holdings",
     "image": "/features/noun_3d modeling_1885342.svg"
   }
 ]
